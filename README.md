@@ -14,7 +14,7 @@ You start as a drone on a landing craft next to a small island. Fly to the islan
 
 ```powershell
 git lfs install
-git clone <repository-url>
+git clone https://github.com/Bm2404/drone-game.git
 ```
 
 ## How to start the game
